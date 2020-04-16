@@ -9,4 +9,5 @@ elif A - B==1:
 else:
     for i in range(len(Bbin)):
         if B % (2 ** i) == 1:
-            ans+=bin(2**i)
+            ans += bin(2 ** i)
+    
