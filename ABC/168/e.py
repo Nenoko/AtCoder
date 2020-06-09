@@ -7,3 +7,4 @@ for i in range(N):
   a,b=[int(i)for i in input().split()]
   A.append(a)
   B.append(b)
+
