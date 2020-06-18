@@ -20,4 +20,6 @@ for n in range(N):
     tmpGraph=testimony_of_i
     #キューが空になるまで全探査を繰り返す
     while len(q) != 0:
+
+    #26:36
       

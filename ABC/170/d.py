@@ -23,5 +23,5 @@ while len(A)>0:
   #aで割り切れるやつは削除する
   A = [a_ for a_ in A if a_ % a != 0]
   cnt += 1
-
+  
 print(cnt)
